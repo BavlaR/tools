@@ -1,0 +1,3 @@
+{
+   "presets": [["@babel/preset-env", { "target": ">1%, last 2 versions" }]]
+}
